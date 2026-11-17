@@ -1,26 +1,12 @@
 # 📸 Sujeitogram — Réplica de Interface Web (Instagram Clone)
 
-\<p align="center">
-&#x20; \<img src="./assets/logo.png" alt="Sujeitogram Logo" width="250">
-\</p>
+\<p align="center"> \<img src="./assets/logo.png" alt="Sujeitogram Logo" width="250"> \</p>
 
-\<p align="center">
-&#x20; \<img src="[https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)" alt="HTML5">
-&#x20; \<img src="[https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)" alt="CSS3">
-&#x20; \<img src="[https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)" alt="JavaScript">
-&#x20; \<img src="[https://img.shields.io/badge/Front--End-263238?style=for-the-badge](https://img.shields.io/badge/Front--End-263238?style=for-the-badge)" alt="Front-End">
-&#x20; \<img src="[https://img.shields.io/badge/Status-Concluído-2EA44F?style=for-the-badge](https://img.shields.io/badge/Status-Concluído-2EA44F?style=for-the-badge)" alt="Status Concluído">
-\</p>
+\<p align="center"> \<img src="[https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)" alt="HTML5"> \<img src="[https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)" alt="CSS3"> \<img src="[https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)" alt="JavaScript"> \<img src="[https://img.shields.io/badge/Front--End-263238?style=for-the-badge](https://img.shields.io/badge/Front--End-263238?style=for-the-badge)" alt="Front-End"> \<img src="[https://img.shields.io/badge/Status-Concluído-2EA44F?style=for-the-badge](https://img.shields.io/badge/Status-Concluído-2EA44F?style=for-the-badge)" alt="Status Concluído"> \<a href="[https://projeto-sujeitogram.vercel.app/](https://projeto-sujeitogram.vercel.app/)" target="\_blank"> \<img src="[https://img.shields.io/badge/Vercel-000000?style=for-the-badge&amp;logo=vercel&amp;logoColor=white](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)" alt="Vercel"> \</a> \</p>
 
-\<p align="center">
-&#x20; \<a href="#-sobre-o-projeto">\<img src="[https://img.shields.io/badge/Sobre-263238?style=for-the-badge](https://img.shields.io/badge/Sobre-263238?style=for-the-badge)" alt="Sobre">\</a>
-&#x20; \<a href="#-interfaces-desenvolvidas">\<img src="[https://img.shields.io/badge/Interfaces-37474F?style=for-the-badge](https://img.shields.io/badge/Interfaces-37474F?style=for-the-badge)" alt="Interfaces">\</a>
-&#x20; \<a href="#-funcionalidades">\<img src="[https://img.shields.io/badge/Funcionalidades-263238?style=for-the-badge](https://img.shields.io/badge/Funcionalidades-263238?style=for-the-badge)" alt="Funcionalidades">\</a>
-&#x20; \<a href="#-tecnologias-e-conceitos">\<img src="[https://img.shields.io/badge/Tecnologias-37474F?style=for-the-badge](https://img.shields.io/badge/Tecnologias-37474F?style=for-the-badge)" alt="Tecnologias">\</a>
-&#x20; \<a href="#-estrutura-do-projeto">\<img src="[https://img.shields.io/badge/Estrutura-263238?style=for-the-badge](https://img.shields.io/badge/Estrutura-263238?style=for-the-badge)" alt="Estrutura">\</a>
-&#x20; \<a href="#-como-executar">\<img src="[https://img.shields.io/badge/Execução-37474F?style=for-the-badge](https://img.shields.io/badge/Execução-37474F?style=for-the-badge)" alt="Execução">\</a>
-&#x20; \<a href="#-aprendizados">\<img src="[https://img.shields.io/badge/Aprendizados-263238?style=for-the-badge](https://img.shields.io/badge/Aprendizados-263238?style=for-the-badge)" alt="Aprendizados">\</a>
-\</p>
+\<p align="center"> \<a href="[https://projeto-sujeitogram.vercel.app/](https://projeto-sujeitogram.vercel.app/)" target="\_blank"> \<img src="[https://img.shields.io/badge/🌐_Acessar_Projeto-000000?style=for-the-badge](https://img.shields.io/badge/🌐_Acessar_Projeto-000000?style=for-the-badge)" alt="Acessar Projeto Online"> \</a> \</p>
+
+\<p align="center"> \<a href="#-sobre-o-projeto">\<img src="[https://img.shields.io/badge/Sobre-263238?style=for-the-badge](https://img.shields.io/badge/Sobre-263238?style=for-the-badge)" alt="Sobre">\</a> \<a href="#-interfaces-desenvolvidas">\<img src="[https://img.shields.io/badge/Interfaces-37474F?style=for-the-badge](https://img.shields.io/badge/Interfaces-37474F?style=for-the-badge)" alt="Interfaces">\</a> \<a href="#-funcionalidades">\<img src="[https://img.shields.io/badge/Funcionalidades-263238?style=for-the-badge](https://img.shields.io/badge/Funcionalidades-263238?style=for-the-badge)" alt="Funcionalidades">\</a> \<a href="#-tecnologias-e-conceitos">\<img src="[https://img.shields.io/badge/Tecnologias-37474F?style=for-the-badge](https://img.shields.io/badge/Tecnologias-37474F?style=for-the-badge)" alt="Tecnologias">\</a> \<a href="#-estrutura-do-projeto">\<img src="[https://img.shields.io/badge/Estrutura-263238?style=for-the-badge](https://img.shields.io/badge/Estrutura-263238?style=for-the-badge)" alt="Estrutura">\</a> \<a href="#-como-executar">\<img src="[https://img.shields.io/badge/Execução-37474F?style=for-the-badge](https://img.shields.io/badge/Execução-37474F?style=for-the-badge)" alt="Execução">\</a> \<a href="#-aprendizados">\<img src="[https://img.shields.io/badge/Aprendizados-263238?style=for-the-badge](https://img.shields.io/badge/Aprendizados-263238?style=for-the-badge)" alt="Aprendizados">\</a> \</p>
 
 ---
 
@@ -109,6 +95,16 @@ O projeto centraliza a estilização e o comportamento em arquivos dedicados:
 
 ---
 
+## 🌐 Acesse o Projeto
+
+A aplicação está publicada na **Vercel** e pode ser acessada diretamente pelo navegador.
+
+\<p align="center"> \<a href="[https://projeto-sujeitogram.vercel.app/](https://projeto-sujeitogram.vercel.app/)" target="\_blank"> \<img src="[https://img.shields.io/badge/VERCEL-000000?style=for-the-badge&amp;logo=vercel&amp;logoColor=white](https://img.shields.io/badge/VERCEL-000000?style=for-the-badge&logo=vercel&logoColor=white)" alt="Projeto publicado na Vercel"> \</a> \</p>
+
+**Link de acesso:** [https://projeto-sujeitogram.vercel.app/](https://projeto-sujeitogram.vercel.app/)
+
+---
+
 ## 📂 Estrutura do Projeto
 
 ```text
@@ -187,12 +183,10 @@ O projeto contribuiu para consolidar conhecimentos em desenvolvimento front-end,
 
 Estudante de Engenharia da Computação, com foco em desenvolvimento Full-Stack e Engenharia de Software.
 
-\<p align="center">
-&#x20; \<a href="[https://github.com/devRafaelSantana-Code](https://github.com/devRafaelSantana-Code)" target="\_blank">
-&#x20; \<img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)" alt="GitHub">
-&#x20; \</a>
-\</p>
+\<p align="center"> \<a href="[https://github.com/devRafaelSantana-Code](https://github.com/devRafaelSantana-Code)" target="\_blank"> \<img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)" alt="GitHub"> \</a> \</p>
 
 ---
 
-\<p align="center"> Projeto desenvolvido para fins educacionais e para consolidação de conhecimentos em HTML5, CSS3, CSS Grid, Flexbox e desenvolvimento de interfaces responsivas. \</p>
+\<p align="center">
+&#x20; Projeto desenvolvido para fins educacionais e para consolidação de conhecimentos em HTML5, CSS3, CSS Grid, Flexbox e desenvolvimento de interfaces responsivas.
+\</p>
